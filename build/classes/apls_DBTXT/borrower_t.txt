@@ -1,0 +1,7 @@
+1:Ali:student:ali@gmail.com:0129045636:
+2:Amira:staff:amira@setel.com:0139245473:
+3:Brad:student:brad@hotmail.com:0156378496:
+5:Eastwood:staff:east@aol.com:0137583478:
+6:Matt:student:matt@gmail.com:0182537489:
+7:Michael:student:michael@aol.com:0144269463:
+9:Isaac:staff:isaac.pan@gmail.com:0133737345:
